@@ -10,12 +10,6 @@ public class Programa {
                 expiravel.calculaAteExpiracao().getMonths(),
                 expiravel.calculaAteExpiracao().getDays());
 
-
-
         System.out.println("Tempo restante: " + tempoRestante);
-    }
-
-    public void tempoRestante( ){
-
     }
 }
